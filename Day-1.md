@@ -242,9 +242,9 @@ Booking a flight on MakeMyTrip:
 
 
 
-##### **Storage Areas**
+#### **Storage Areas**
 
-====================
+======================
 
 As part of our applications we required to store data like Customers information, or billing information, calls information...etc to store this data we required storage areas.
 
@@ -280,9 +280,9 @@ example: Files Systems, Databases, Data warehouse, Bigdata..etc
 
 
 
-##### **File Management System(FMS)**
+#### **File Management System(FMS)**
 
-\------------------------------------------
+\-----------------------------------------------
 
 def: A File Management System is a System where data is stored in files on the operation systems, each application program must handle its own storage data, retrieval and updating. File Systems can be provided by the Local Operating System.
 
@@ -318,9 +318,9 @@ To overcome the above problems of File systems , we should go for databases.
 
 ##### 
 
-##### **Database Management System**
+#### **Database Management System**
 
-\------------------------------------------
+\----------------------------------------------
 
 definition: a DBMS is a Collection of Programs that enables users to create,manage, and manipulate databases.
 
